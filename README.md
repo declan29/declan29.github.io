@@ -3,6 +3,7 @@ The files in this repository accompany the "Web Accessibility for Developers" co
 
 [Web Accessibility for Developers](https://de.ryerson.ca/wa/advanced/)
 
+
 There are 10 widgets included in this repository (plus one example widget), that are purposely inaccessible. As part of the course activities, participants learn about WAI-ARIA, and apply what they learn to fix the accessibility of these widgets. 
 
 Widgets include:
